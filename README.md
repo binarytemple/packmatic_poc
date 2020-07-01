@@ -1,6 +1,6 @@
 # packmatic_poc
 
-Verifying that custom sources work with Evadne Wu's packmatic dynamic zipfile creation library
+Verifying that custom sources work with Evadne Wu's [packmatic](https://github.com/evadne/packmatic)(develop branch) dynamic zipfile creation library
 
 ```
 iex -S mix
